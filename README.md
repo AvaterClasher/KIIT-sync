@@ -1,3 +1,5 @@
+# Tutorial
+
 ## Repository info
 
 This github repository contains all the necessary files to run the project KiiT-Sync. The project is a web application that allows students & teachers to access their daily timetable & academic information in one place. The project is built using Next JS, a modern javascript framework. The project is will be primarily hosted on Vercel, a cloud platform for static sites and serverless functions. The project is currently under development and is not yet ready for production.
